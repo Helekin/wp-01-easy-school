@@ -52,6 +52,13 @@ http://localhost/wp-01-easy-school/
 ```
 4. This will take you to the locally hosted WordPress website associated with the project.
 
+5. **Access the WordPress Dashboard**
+
+   To log in and access the WordPress dashboard, use the following credentials:
+
+   - **Username:** `admin`
+   - **Password:** `%!8#f)r4yBcq2WeFi0`
+
 ## License
 
 Distributed under the MIT License.
